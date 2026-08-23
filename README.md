@@ -59,7 +59,7 @@ Entre os conceitos trabalhados estão:
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fonseca-237395142/))
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pedrofes)
 
