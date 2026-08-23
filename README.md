@@ -65,6 +65,17 @@ Entre os conceitos trabalhados estão:
 
 ---
 
+## 🧠 Conhecimentos
+
+- Python
+- SQL e SQLite
+- Programação Orientada a Objetos (POO)
+- Banco de Dados Relacional
+- Git e GitHub
+- Manipulação de arquivos TXT e JSON
+- Validação e tratamento de dados
+- WordPress
+
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
