@@ -1,6 +1,6 @@
 # 💫 Sobre mim
 
-👨🏻‍💻 Olá! Sou Pedro Fonseca, formado em **Análise e Desenvolvimento de Sistemas**, jornalista formado pela **UNESP** e pós-graduado com MBA em **Digital Business**.
+👨🏻‍💻 Olá! Sou Pedro Fonseca, formado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Facens, jornalista formado pela **UNESP** e pós-graduado com MBA em **Digital Business** pela USP Esalq.
 
 Atualmente, estou direcionando minha carreira para a área de **Tecnologia e Desenvolvimento de Software**, com foco no desenvolvimento das minhas habilidades em **Python, SQL, bancos de dados e Programação Orientada a Objetos**.
 
