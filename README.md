@@ -19,9 +19,6 @@ Atualmente, estou direcionando minha carreira para a área de **Tecnologia e Des
 - **SQLite**
 - **Programação Orientada a Objetos (POO)**
 - **Git / GitHub**
-- **HTML / CSS / JavaScript**
-- **Flutter / Dart**
-- **Power BI**
 - **WordPress**
 - **Lógica de Programação**
 - **Banco de Dados Relacional**
